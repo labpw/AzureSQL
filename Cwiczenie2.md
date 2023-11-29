@@ -187,4 +187,54 @@ Celem tego ćwiczenia jest zapoznanie się z Azure Form Recognizer i jego zastos
 1. Rozszerz aplikację o dodatkowe funkcje, takie jak przetwarzanie dokumentów wielostronicowych.
 2. Dodaj możliwość klasyfikacji dokumentów na podstawie wydobytych danych.
 
+ Stworzenie ćwiczenia na bazie Azure QnA Maker, usługi służącej do tworzenia inteligentnych i interaktywnych baz wiedzy FAQ (często zadawane pytania), jest kolejnym interesującym zadaniem. Azure QnA Maker wykorzystuje techniki AI do analizy i odpowiedzi na pytania oparte na dostarczonych dokumentach i treściach. Oto przykład ćwiczenia:
+
+### Ćwiczenie: Tworzenie i Implementacja Chatbota z Azure QnA Maker
+
+#### Cel:
+Celem tego ćwiczenia jest nauka korzystania z Azure QnA Maker do tworzenia, szkolenia i publikowania inteligentnej bazy wiedzy, która może być wykorzystana do obsługi chatbota. Ćwiczenie to umożliwi praktyczne zrozumienie, jak tworzyć i integrować boty oparte na AI, które mogą odpowiadać na pytania w sposób zautomatyzowany.
+
+#### Wymagania:
+- Aktywne konto Microsoft Azure.
+- Zainstalowane środowisko programistyczne obsługujące C# (np. Visual Studio).
+- Podstawowa znajomość C# i .NET.
+
+---
+
  
+#### Krok 1 i 2: Utworzenie zasobu Azure QnA Maker
+
+##### a. Tworzenie zasobu
+1. Na pulpicie nawigacyjnym portalu Azure wybierz „+ Utwórz zasób”.
+2. Wyszukaj „QnA Maker” i wybierz.
+3. Kliknij „Utwórz”.
+
+##### b. Konfiguracja projektu
+1. Wybierz lub utwórz grupę zasobów.
+2. Wpisz nazwę dla zasobu QnA Maker.
+3. Wybierz lokalizację i plan cenowy.
+
+---
+
+#### Krok 3: Tworzenie bazy wiedzy w QnA Maker
+
+1. Po utworzeniu zasobu QnA Maker, przejdź do [QnA Maker Portal](https://qnamaker.ai/).
+2. Użyj klucza dostępu z Azure do logowania.
+3. Stwórz nową bazę wiedzy, importując istniejące materiały FAQ lub wprowadzając pytania i odpowiedzi manualnie.
+
+---
+
+#### Krok 4: Szkolenie i publikowanie bazy wiedzy
+
+1. Trenuj bazę wiedzy, dopasowując pytania do odpowiednich odpowiedzi.
+2. Po zakończeniu szkolenia, opublikuj bazę wiedzy, aby była dostępna jako endpoint.
+
+---
+
+#### Krok 5: Tworzenie i integracja chatbota
+
+1. Stwórz projekt aplikacji chatbota w C# w wybranym środowisku programistycznym.
+2. Wykorzystaj Azure Bot Service lub inny framework
+
+### Sprawozdanie i ocena
+ Celem jest wykonanie ćwiczeń i napisanie sprawozdania w formie instrukcji co krok, po kroku należało wykonać aby osiąnać cel. Sprawozdanie powinno być napisane w markdown i umieszczone na serverze np github. Sprawozdanie powinno zawierać, oprócz opisu wykonanych kroków zrzuty ekranu i stanowić kompletne podsumowanie wykonanego zadania. Ćwiczenie można wykonać z użyciem intrefjesu portalu AZURE lub CLI - bardzo mile widziane jest pokazanie obydwu metod.  Ocena 10 punktów. Termin 8.12.2023
