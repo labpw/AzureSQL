@@ -117,21 +117,13 @@ Celem tego ćwiczenia jest zaznajomienie się z Azure Speech Service oraz prakty
 
 ---
 
-### Sprawozdanie i ocena
-Podobnie jak wcześniej, sprawozdanie powinno zawierać dokładny opis wykonanych kroków, zrzuty ekranu, oraz wszelkie inne informacje potrzebne do zrozumienia projektu. Sprawozdanie powinno być przygotowane w formacie markdown i umieszczone na platformie takiej jak GitHub. Oczekuje się zarówno wykorzystania interfejsu portalu Azure, jak i Azure CLI. Ocena będzie opierać się na kompletności wykonania zadania, poprawności implementacji i jakości dokumentacji. Termin: 17.11.2023.
-
-
-Z przyjemnością przygotowuję dla Ciebie kolejne ćwiczenie, tym razem koncentrując się na usłudze Azure Form Recognizer, która jest częścią Azure Cognitive Services. Azure Form Recognizer wykorzystuje zaawansowane techniki uczenia maszynowego do analizy formularzy i dokumentów, automatycznie wydobywając z nich kluczowe informacje. Oto szczegóły ćwiczenia:
+ 
 
 ### Ćwiczenie: Wprowadzenie do Azure Form Recognizer
 
 #### Cel:
 Celem tego ćwiczenia jest zapoznanie się z Azure Form Recognizer i jego zastosowaniem do analizowania i przetwarzania dokumentów. Będziesz tworzyć aplikację, która wykorzystuje Form Recognizer API do wydobywania danych z obrazów dokumentów i formularzy.
 
-#### Wymagania:
-- Aktywne konto Microsoft Azure.
-- Zainstalowane środowisko programistyczne obsługujące C# (np. Visual Studio).
-- Podstawowa znajomość C# i .NET.
 
 ---
 
@@ -192,10 +184,6 @@ Celem tego ćwiczenia jest zapoznanie się z Azure Form Recognizer i jego zastos
 #### Cel:
 Celem tego ćwiczenia jest nauka korzystania z Azure QnA Maker do tworzenia, szkolenia i publikowania inteligentnej bazy wiedzy, która może być wykorzystana do obsługi chatbota. Ćwiczenie to umożliwi praktyczne zrozumienie, jak tworzyć i integrować boty oparte na AI, które mogą odpowiadać na pytania w sposób zautomatyzowany.
 
-#### Wymagania:
-- Aktywne konto Microsoft Azure.
-- Zainstalowane środowisko programistyczne obsługujące C# (np. Visual Studio).
-- Podstawowa znajomość C# i .NET.
 
 ---
 
@@ -216,7 +204,7 @@ Celem tego ćwiczenia jest nauka korzystania z Azure QnA Maker do tworzenia, szk
 
 #### Krok 3: Tworzenie bazy wiedzy w QnA Maker
 
-1. Po utworzeniu zasobu QnA Maker, przejdź do [QnA Maker Portal](https://qnamaker.ai/).
+1. Po utworzeniu zasobu QnA Maker, przejdź do [QnA Maker Portal](https://language.cognitive.azure.com/questionAnswering/projects).
 2. Użyj klucza dostępu z Azure do logowania.
 3. Stwórz nową bazę wiedzy, importując istniejące materiały FAQ lub wprowadzając pytania i odpowiedzi manualnie.
 
