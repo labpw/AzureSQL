@@ -4,7 +4,7 @@
 Celem tego ćwiczenia jest zapoznanie się z usługą Azure Bing Search i praktyczne zastosowanie jej w aplikacji. Będziesz tworzyć aplikację, która wykorzystuje Bing Search API do przeprowadzania złożonych zapytań wyszukiwania i analizy wyników.
 
  
-#### Krok 1: Utworzenie konta w Azure
+#### Krok 1: Zainstalowanie środowiska pracy
 
 Zainstalowane środowisko programistyczne obsługujące C# (np. Visual Studio).
 ---
