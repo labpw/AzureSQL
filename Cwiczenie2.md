@@ -59,8 +59,6 @@ Zainstalowane środowisko programistyczne obsługujące C# (np. Visual Studio).
 2. Zaimplementuj interfejs użytkownika, który ułatwi korzystanie z aplikacji.
 
 
-Na podstawie Twojego poprzedniego przykładu, stworzyłem ćwiczenie skupiające się na usłudze Azure Speech Service, która jest częścią Azure Cognitive Services. Azure Speech Service zapewnia zaawansowane możliwości rozpoznawania mowy, konwersji tekstu na mowę (TTS) i tłumaczenia mowy. Oto przykład ćwiczenia:
-
 
 ### Ćwiczenie: Praca z Azure Speech Service
 
