@@ -140,4 +140,4 @@ Poznanie podstaw Azure Cosmos DB poprzez stworzenie i interakcję z bazą danych
 
 
 ### Sprawozdanie i ocena
- Celem jest wykonanie ćwiczeń i napisanie sprawozdania w formie instrukcji co krok, po kroku należało wykonać aby osiąnać cel. Sprawozdanie powinno być napisane w markdown i umieszczone na serverze np github. Sprawozdanie powinno zawierać, oprócz opisu wykonanych kroków zrzuty ekranu i stanowić kompletne podsumowanie wykonanego zadania. Ćwiczenie można wykonać z użyciem intrefjesu portalu AZURE lub CLI - bardzo mile widziane jest pokazanie obydwu metod.  Ocena 5 punktów. Termin 31.10.2023
+ Celem jest wykonanie ćwiczeń i napisanie sprawozdania w formie instrukcji co krok, po kroku należało wykonać aby osiąnać cel. Sprawozdanie powinno być napisane w markdown i umieszczone na serverze np github. Sprawozdanie powinno zawierać, oprócz opisu wykonanych kroków zrzuty ekranu i stanowić kompletne podsumowanie wykonanego zadania. Ćwiczenie można wykonać z użyciem intrefjesu portalu AZURE lub CLI - bardzo mile widziane jest pokazanie obydwu metod.  Ocena 5 punktów. Termin 31.10.2024
